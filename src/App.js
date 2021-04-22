@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Aqui va a estar mi aplicacion, en la cual voy aprender a subir archivos para mi escuela</p>
       </header>
     </div>
   );
