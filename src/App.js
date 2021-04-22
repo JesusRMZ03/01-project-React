@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://dojodevs.slack.com/archives/C01H9UV7N07"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Dedicado para DojoDevs
         </a>
         <p>Aqui va a estar mi aplicacion, en la cual voy aprender a subir archivos para mi escuela</p>
       </header>
