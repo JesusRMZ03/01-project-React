@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  background-color: #cccc;
+}
+
+.Content{
+  height: 85%;
+  width: 100%;
+  background-color: white;
+  
 }
 
 
