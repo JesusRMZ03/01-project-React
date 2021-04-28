@@ -1,13 +1,14 @@
 .App {
   text-align: center;
+  align-items: center;
   background-color: #cccc;
 }
 
 .Content{
-  height: 85%;
-  width: 100%;
-  background-color: white;
-  
+  height: 100%;
+  width: 85%;
+  background-color: orange;
+
 }
 
 
