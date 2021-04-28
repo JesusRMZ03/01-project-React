@@ -4,6 +4,12 @@
   background-color: #cccc;
 }
 
+header{
+  height: 100%;
+  width: 85%;
+  background-color: palegoldenrod;
+}
+
 .Content{
   height: 100%;
   width: 85%;
