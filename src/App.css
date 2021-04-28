@@ -14,7 +14,12 @@ header{
   height: 100%;
   width: 85%;
   background-color: orange;
+}
 
+.Footer{
+  height: 100%;
+  width: 100%;
+  background: paleturquoise;
 }
 
 
