@@ -1,4 +1,3 @@
-import logo from './DDSF.png';
 import './App.css';
 
 function App() {
