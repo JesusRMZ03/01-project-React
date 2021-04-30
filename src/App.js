@@ -6,11 +6,9 @@ function App() {
       <header>
         <h1>Cabecera</h1>
         <nav>
-          <li className='Nav'></li>
-          <li className='Nav'></li>
-          <li className='Nav'></li>
-          <li className='Nav'></li>
-          <li className='Nav'></li>
+          <li className='Nav'>Materias</li>
+          <li className='Nav'>Documentos</li>
+          <li className='Nav'>Links a otras paginas</li>
         </nav>
       </header>
       <div className="Content">
