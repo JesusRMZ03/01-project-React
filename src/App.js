@@ -22,6 +22,13 @@ function App() {
           
         </section>
 
+        <section className="cuadroInfo">
+          
+        </section>
+          
+        <section className="cuadroInfo">
+          
+        </section>
 
       </div>
       <div className="Footer">
