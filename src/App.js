@@ -14,15 +14,13 @@ function App() {
             <span></span>
 
             <ul className="menu-list">
-              <a href="#"></a>
-
+              <a href="#"><li className='Nav'>Materias</li></a>
+              <a href="#"><li className='Nav'>Documentos</li></a>
+              <a href="#"><li className='Nav'>Links a otras paginas</li></a>
             </ul>            
 
           </div>
         </nav>
-        <li className='Nav'>Materias</li>
-          <li className='Nav'>Documentos</li>
-          <li className='Nav'>Links a otras paginas</li>
       </header>
       <div className="Content">
         <h1>Hola Mundo</h1>
