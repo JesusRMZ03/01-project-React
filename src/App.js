@@ -3,7 +3,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header>
         <h1>Cabecera</h1>
         <nav role="navegation">
           <div className="menu">
@@ -21,7 +20,6 @@ function App() {
 
           </div>
         </nav>
-      </header>
       <div className="Content">
         <h1>Hola Mundo</h1>
 
