@@ -10,6 +10,16 @@ header{
   background-color: palegoldenrod;
 }
 
+.menu{
+  display: block;
+  position: relative;
+  top: 50px;
+  left: 50px;
+  z-index: 1;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
 .Content{
   height: 100%;
   width: 85%;
