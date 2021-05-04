@@ -26,6 +26,10 @@ header{
   transition: color 0.3s ease;
 }
 
+.menu a:hover{
+  color: tomato;
+}
+
 .Content{
   height: 100%;
   width: 85%;
