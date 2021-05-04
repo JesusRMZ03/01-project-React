@@ -8,6 +8,13 @@ function App() {
         <nav role="navegation">
           <div className="menu">
             <input type="checkbox" />
+
+            <span></span>
+            <span></span>
+            <span></span>
+
+            
+
           </div>
         </nav>
         <li className='Nav'>Materias</li>
