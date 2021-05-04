@@ -6,10 +6,13 @@ function App() {
       <header>
         <h1>Cabecera</h1>
         <nav role="navegation">
-          <li className='Nav'>Materias</li>
+          <div className="menu">
+            <input type="checkbox" />
+          </div>
+        </nav>
+        <li className='Nav'>Materias</li>
           <li className='Nav'>Documentos</li>
           <li className='Nav'>Links a otras paginas</li>
-        </nav>
       </header>
       <div className="Content">
         <h1>Hola Mundo</h1>
