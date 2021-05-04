@@ -20,6 +20,12 @@ header{
   user-select: none;
 }
 
+.menu a{
+  text-decoration: none;
+  color: #232323;
+  transition: color 0.3s ease;
+}
+
 .Content{
   height: 100%;
   width: 85%;
