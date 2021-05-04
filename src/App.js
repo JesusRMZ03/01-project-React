@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header>
         <h1>Cabecera</h1>
-        <nav>
+        <nav role="navegation">
           <li className='Nav'>Materias</li>
           <li className='Nav'>Documentos</li>
           <li className='Nav'>Links a otras paginas</li>
